@@ -14,7 +14,7 @@ A Frontend Bootcamp Website
 
 # Screens
 <p float="left">
-<img src='https://lh3.googleusercontent.com/d/1AtA3i7oaHost_Cbk7wNbvUuX-x1uNtPD' height="600" />
+<img src='./bc1.png' height="600" />
 <img src='https://lh3.googleusercontent.com/d/1AwvIkXyMCxWRNFMEb_VywPbYMZhIje_1' height="600" />
 <img src='https://lh3.googleusercontent.com/d/1AztsuoEfXd85KgR2eu2moH6FX2y4dLhv' height="600" />
 </p>
