@@ -2,7 +2,7 @@
 A Frontend Bootcamp Website
 
 # Installation
-- git clone https://github.com/BasuGM/react-native-animated-todo.git <br/>
+- git clone https://github.com/BasuGM/frontendBootcampWebsite <br/>
 - open in VS Code
 - Install Live Server in VS Code
 - Run in Live Server
